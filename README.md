@@ -16,3 +16,9 @@ now I need to commit the change
  once that happened, though, I opened up the file on my computer and it had been updated.
 
  ----
+ 
+ I also need to remember to push the changes (i couldn't note that in the last message because it happens and shows up in the Desktop interface.
+ 
+ The Desktop app helps me stay out of Terminal.
+ 
+ ----
