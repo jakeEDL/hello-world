@@ -6,3 +6,13 @@ now I need to commit the change
  ----
  
  but then, I added this text at 11:47 via the file in GitHub
+
+ ----
+
+ when this happened, I used my GitHub Desktop to first fetch the version that was
+ updated remotely - there was no indication of this, so I just need to make a habit of doing that 
+ first. It was basically just a refresh action. super quick.
+
+ once that happened, though, I opened up the file on my computer and it had been updated.
+
+ ----
