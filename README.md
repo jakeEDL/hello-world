@@ -22,3 +22,8 @@ now I need to commit the change
  The Desktop app helps me stay out of Terminal.
  
  ----
+
+ okay, yes the title populated as the gray text auto generated. yay.
+ so now, I have added a branch called First Branch. let's see what happens to this file now.
+
+ ---
